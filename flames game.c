@@ -11,7 +11,7 @@ char m;
 int tc,nc,choice;
 do{
 printf("\t\t\t\t\twelcome to the FLAMES game\n\n\n");
-printf("press 1 to play and 0 to exit\n");
+printf("press 1 to play or 0 to exit\n");
 scanf("%d",&choice);
 if(choice==1){
      printf("enter your name:\n");
